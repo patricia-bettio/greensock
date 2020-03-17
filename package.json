@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "beachball.js",
   "scripts": {
-    "start": "parcel beachball.html --open"
+    "start": "parcel beachball.html --open",
+    "startMulti": "parcel multiballs.html --open"
   },
   "repository": {
     "type": "git",
