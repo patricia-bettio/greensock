@@ -1,7 +1,6 @@
 {
   "name": "gsap_exercise",
   "version": "1.0.0",
-  "description": "",
   "main": "beachball.js",
   "scripts": {
     "start": "parcel beachball.html --open"
@@ -19,5 +18,6 @@
   "homepage": "https://github.com/pbettio/greensock#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
-  }
+  },
+  "description": ""
 }
